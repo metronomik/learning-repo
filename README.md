@@ -1,1 +1,2 @@
-# learning-repo
+# learning-Repo
+Managing work associated with various projects
